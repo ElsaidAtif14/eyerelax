@@ -9,7 +9,7 @@
 * 🎨 **Beautiful UI:** Uses a custom sleeping-mask icon for a friendly look.
 
 ## 📸 Screenshots
-![EyeRelax Icon](https://raw.githubusercontent.com/elsaid-atif/eyerelax/main/resources/sleeping-mask.png)
+![EyeRelax Icon](https://raw.githubusercontent.com/ElsaidAtif14/eyerelax/main/resources/sleeping-mask.png)
 
 ## 🛠️ How to Use
 1. Install the extension from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=elsaid-atif.eyerelax).
